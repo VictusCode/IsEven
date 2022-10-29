@@ -1,20 +1,20 @@
 {
-  "name": "lib",
+  "name": "isEven",
   "version": "1.0.0",
-  "description": "",
+  "description": "check for an even number",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlueRexPY/IsOdd.git"
+    "url": "git+https://github.com/BlueRexPY/isEven.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/BlueRexPY",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BlueRexPY/IsOdd/issues"
+    "url": "https://github.com/BlueRexPY/isEven/issues"
   },
-  "homepage": "https://github.com/BlueRexPY/IsOdd#readme"
+  "homepage": "https://github.com/BlueRexPY/isEven#readme"
 }
