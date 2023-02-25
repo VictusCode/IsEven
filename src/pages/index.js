@@ -31,8 +31,10 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`${siteConfig.title}`}
+      description="
+      With just one line of code, you can harness the power of this tool to streamline your programming workflow and save valuable time. Say goodbye to manual calculations and hello to lightning-fast even/odd number checking with this incredible program!
+      "
     >
       <HomepageHeader />
       <main>
