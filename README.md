@@ -2,3 +2,4 @@
 # IsEven?
 check for an even number (joke)
 https://www.npmjs.com/package/@ruslan_rystsov/iseven
+Docs - https://is-even-documentation.vercel.app/
