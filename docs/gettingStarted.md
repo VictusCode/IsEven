@@ -16,7 +16,7 @@ This amazing program checks whether a given number is even in the blink of an ey
 npm i @ruslan_rystsov/iseven
 ```
 
-### How to use
+## How to use
 
 ```js
 import isEven from "@ruslan_rystsov/iseven";
