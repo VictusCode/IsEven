@@ -1,6 +1,6 @@
 {
   "name": "isEven",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "check for an even number",
   "main": "index.js",
   "scripts": {
